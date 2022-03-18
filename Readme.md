@@ -9,20 +9,21 @@
 
 ### IPFS Links
 
-NFT 1 link - "ipfs://QmRr5GZSKY7WxM2wbsa4U5TT7CK3kWkWWSCzm3wPqXkQov"
-NFT 2 link - "ipfs://QmVsFXtS4v6vFfZPC9CTJ9JZ7NUywoQhynUoZjpHzSKE1g"
+1. NFT 1 link - "ipfs://QmRr5GZSKY7WxM2wbsa4U5TT7CK3kWkWWSCzm3wPqXkQov"
+2. NFT 2 link - "ipfs://QmVsFXtS4v6vFfZPC9CTJ9JZ7NUywoQhynUoZjpHzSKE1g"
 
 ### Metadata value
 
-[
-{
-"name": "Asherflo"
-"image": "ipfs://QmW8n9pNUWSfR761wA2aNehFisjLLgXcb3FqKkCJVi3zdx",
-"description": "The world's most adorable daughter, wife and sister.",
+[<br>
+{<br>
+"name": "Asherflo" <br>
+"image": "ipfs://QmW8n9pNUWSfR761wA2aNehFisjLLgXcb3FqKkCJVi3zdx", <br>
+"description": "The world's most adorable daughter, wife and sister.",<br>
 },
-{
-"name": "Samuel"
-"image": "ipfs://Qme9R6s79WRcTibXdQCB2Sjk3ZXrJmrafneoMzEN7XH5j1",
-"description": "The world's most adorable son, father and brother.",
-}
+<br>
+{<br>
+"name": "Samuel"<br>
+"image": "ipfs://Qme9R6s79WRcTibXdQCB2Sjk3ZXrJmrafneoMzEN7XH5j1",<br>
+"description": "The world's most adorable son, father and brother.",<br>
+}<br>
 ]
