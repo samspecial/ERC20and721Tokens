@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Person",
+      "value": "Adorable"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Black"
+    }
+  ],
+  "description": "The world's most adorable son, father and brother.",
+  "image": "ipfs://Qme9R6s79WRcTibXdQCB2Sjk3ZXrJmrafneoMzEN7XH5j1",
+  "name": "Samuel"
+}
